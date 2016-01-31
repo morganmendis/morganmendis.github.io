@@ -6,6 +6,8 @@ body {
   	background-position: center center;
   	background-repeat: no-repeat;
   	background-size: cover;
+  	color: #FFFFFF;
+  	text-align: center;
 }
 
 title{
@@ -29,6 +31,26 @@ p {
 img {
     display: block;
     margin: 0 auto;
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: red;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: red;
 }
 
 h4{
