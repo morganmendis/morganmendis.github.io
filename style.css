@@ -1,0 +1,38 @@
+body {
+    background-color: #d0e4fe;
+    padding: 20px;
+    background-image: url(bg_foto.jpeg);
+    background-attachment: fixed;
+  	background-position: center center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+title{
+	color: red;
+	text-align: center;
+
+}
+h2 {
+    color: red;
+    text-align: center;
+}
+
+p {
+    font-family: "Cambria";
+    font-size: 20px;
+    text-align: center;
+    margin: 15px;
+    color: #FFFFFF
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+h4{
+	text-align: center;
+	border: 1px solid #000000;
+	color: #00FF00
+}
