@@ -33,6 +33,10 @@ img {
     margin: 0 auto;
 }
 
+#about_img_1 {
+	width: 150px;	
+}
+
 /* unvisited link */
 a:link {
     color: red;
@@ -46,6 +50,17 @@ a:visited {
 /* mouse over link */
 a:hover {
     color: red;
+}
+
+div{
+	background-color: #d0e4fe;
+	width: 60%;
+	opacity: 0.6;
+	border: 1px solid #000000;
+	display:inline-block;
+	text-align: center;
+	margin: 15px;
+	color: black;
 }
 
 /* selected link */
