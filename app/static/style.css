@@ -1,0 +1,75 @@
+body {
+    background-color: #d0e4fe;
+    padding: 20px;
+    background-image: url(bg_foto.jpeg);
+    background-attachment: fixed;
+  	background-position: center center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	color: #FFFFFF;
+  	text-align: center;
+}
+
+title{
+	color: red;
+	text-align: center;
+
+}
+h2 {
+    color: red;
+    text-align: center;
+}
+
+p {
+    font-family: "Cambria";
+    font-size: 20px;
+    text-align: center;
+    margin: 15px;
+    color: #FFFFFF
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+#about_img_1 {
+	width: 150px;	
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: red;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+div{
+	background-color: #d0e4fe;
+	width: 60%;
+	opacity: 0.6;
+	border: 1px solid #000000;
+	display:inline-block;
+	text-align: center;
+	margin: 15px;
+	color: black;
+}
+
+/* selected link */
+a:active {
+    color: red;
+}
+
+h4{
+	text-align: center;
+	border: 1px solid #000000;
+	color: #00FF00
+}
