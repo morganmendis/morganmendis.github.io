@@ -1,1 +1,0 @@
-confirm("Notice that I did something with JavaScript?")
